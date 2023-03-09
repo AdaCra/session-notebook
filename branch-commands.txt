@@ -1,0 +1,10 @@
+//inside project folder...
+git commit
+*create a prebranch touchpoint
+
+git branch "branch name"
+*creates the branch
+
+git switch "branch name"
+*accesses the branch directory
+*all actions are now made in the branch directory
