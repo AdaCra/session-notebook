@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  color: crimson;
+}
+
+body {
+  color: violet;
+}
+
+p {
+  color: orchid;
+  font-size: 30px;
+}
+
+p {
+  color: cadetblue;
+  font-size: 10px;
+}
+
+#title {
+  color: lightcoral;
+}
+
+.title {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
